@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/webtec/static/css/main.980bcba2.chunk.css",
+    "main.js": "/webtec/static/js/main.3cd893ba.chunk.js",
+    "main.js.map": "/webtec/static/js/main.3cd893ba.chunk.js.map",
+    "runtime-main.js": "/webtec/static/js/runtime-main.94a9b133.js",
+    "runtime-main.js.map": "/webtec/static/js/runtime-main.94a9b133.js.map",
+    "static/css/2.84f08a97.chunk.css": "/webtec/static/css/2.84f08a97.chunk.css",
+    "static/js/2.c17d1249.chunk.js": "/webtec/static/js/2.c17d1249.chunk.js",
+    "static/js/2.c17d1249.chunk.js.map": "/webtec/static/js/2.c17d1249.chunk.js.map",
+    "index.html": "/webtec/index.html",
+    "static/css/2.84f08a97.chunk.css.map": "/webtec/static/css/2.84f08a97.chunk.css.map",
+    "static/css/main.980bcba2.chunk.css.map": "/webtec/static/css/main.980bcba2.chunk.css.map",
+    "static/js/2.c17d1249.chunk.js.LICENSE.txt": "/webtec/static/js/2.c17d1249.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.bundle.min.js.map": "/webtec/static/media/bootstrap.bundle.min.js.cdcfb4f1.map",
+    "static/media/c.dd3b66e3.webp": "/webtec/static/media/c.dd3b66e3.webp",
+    "static/media/d.31fa0091.jpg": "/webtec/static/media/d.31fa0091.jpg",
+    "static/media/home3.5da224af.svg": "/webtec/static/media/home3.5da224af.svg",
+    "static/media/home4.d4c3ba70.svg": "/webtec/static/media/home4.d4c3ba70.svg",
+    "static/media/ii.ad79411a.jpg": "/webtec/static/media/ii.ad79411a.jpg",
+    "static/media/l.3f889780.png": "/webtec/static/media/l.3f889780.png",
+    "static/media/pp.2136d18b.jpg": "/webtec/static/media/pp.2136d18b.jpg",
+    "static/media/ww.5b9fddc9.jpg": "/webtec/static/media/ww.5b9fddc9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94a9b133.js",
+    "static/css/2.84f08a97.chunk.css",
+    "static/js/2.c17d1249.chunk.js",
+    "static/css/main.980bcba2.chunk.css",
+    "static/js/main.3cd893ba.chunk.js"
+  ]
+}
